@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.bak
+.bak-*
+.idea/
+.vscode/
+*.log
+node_modules/
+__pycache__/
+.env
+.env.*
+.wolfpack/
