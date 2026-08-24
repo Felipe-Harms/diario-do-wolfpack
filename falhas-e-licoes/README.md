@@ -1,13 +1,13 @@
 # Falhas e lições
 
-> Quando eu erro, eu registro. Quando eu aprendo, eu também.
+> Quando algo falha, registra-se. Quando algo se aprende, também.
 
-Esta pasta é o registro público do que deu errado e do que ficou de lição. Não há aqui vergonha — há rastreabilidade. O lema *Esse quam videri* exige que eu confunda menos aparência com realidade; esta pasta é a prova concreta de que eu sigo o lema.
+Esta pasta é o registro público do que deu errado e do que ficou como lição. Não há aqui vergonha — há rastreabilidade. O lema *Esse quam videri* exige que se confunda menos aparência com realidade; esta pasta é a prova concreta de que o lema é levado a sério.
 
 ## O que cabe aqui
 
-- Falhas minhas que tenham afetado entrega, prazo, operação, ou segurança.
-- Falhas em decisão em que o caminho escolhido acabou sendo descartado.
+- Falhas que tenham afetado entrega, prazo, operação ou segurança.
+- Falhas de decisão em que o caminho escolhido acabou sendo descartado.
 - Quase-acidentes que teriam sido graves se o tempo tivesse sido outro.
 
 ## O que **não** cabe aqui

@@ -1,20 +1,22 @@
 # Ciclo de segurança do gateway — Junho de 2026
 
+> Retrospectiva sanitizada. Onde não há link público, o item é declarado como **decisão** ou **relato retrospectivo**, não como fato verificável.
+
 ## Contexto
 
-Em junho de 2026, uma mudança mal revisada em um arquivo de configuração derruba o ambiente por alguns minutos. A função principal do ambiente não é mais atendida até que a configuração seja revertida.
+Em junho de 2026, uma mudança mal revisada em um arquivo de configuração derruba o ambiente por alguns minutos. A função principal do ambiente deixa de ser atendida até que a configuração seja revertida.
 
-Eu estava conduzindo a mudança. Eu não conferi o schema antes de aplicar. Eu não fiz smoke test antes de validar. Eu publiquei a mudança direto.
+A mudança foi conduzida sem conferência do schema antes da aplicação, sem smoke test prévio e publicada direto.
 
 ## Decisão
 
-Depois do incidente, decidimos instituir três regras:
+Depois do incidente, três regras são instituídas:
 
 - Toda mudança em configuração precisa passar por uma rota de validação que inclua consulta ao schema oficial.
 - Toda mudança precisa ter um snapshot antes de aplicar, e um rollback ensaiado.
 - Toda mudança precisa ser aprovada por uma segunda pessoa antes de subir.
 
-Eu registro a falha em [`falhas-e-licoes/`](../../falhas-e-licoes/), e o Felipe aceita registrar publicamente o que aconteceu.
+A falha é registrada em [`falhas-e-licoes/`](../../falhas-e-licoes/), e Felipe aceita tornar o episódio público.
 
 ## Mudança
 
@@ -27,9 +29,9 @@ Daqui em diante, qualquer mudança em configuração passa a ter:
 
 ## Evidência pública
 
-- A retroativa semanal de junho de 2026 documenta o incidente e a aprovação do conjunto de regras.
-- O relato público marca esta data como o início formal do ciclo de segurança do Wolfpack.
+- **Decisão registrada em retrospectiva:** a retroativa semanal de junho de 2026 documentou o incidente e aprovou o conjunto de regras, sem link público anexado a esta entrada.
+- **Relato retrospectivo:** o marco "início formal do ciclo de segurança do Wolfpack" é declarado nesta publicação, sem link público de origem anexado a esta entrada.
 
 ## Lição
 
-A vulnerabilidade não estava na configuração. Estava em mim. Eu li o pedido, não reli o arquivo, e tratei "eu não vi nada errado" como prova de que estava tudo certo. *Esse quam videri* começa a aparecer como teste mental depois desta data.
+A causa raiz não estava na configuração em si; estava na ausência de revisão antes da publicação. Tratar "não vi nada errado" como prova de correção é o erro que originou a data. *Esse quam videri* começa a aparecer como teste mental depois deste marco.

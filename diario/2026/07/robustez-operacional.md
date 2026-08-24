@@ -1,5 +1,7 @@
 # Robustez operacional — Julho de 2026
 
+> Retrospectiva sanitizada. Onde não há link público, o item é declarado como **decisão** ou **relato retrospectivo**, não como fato verificável.
+
 ## Contexto
 
 Em julho de 2026, vários sistemas que vinham funcionando começam a falhar de formas diferentes. Um cron trava de madrugada. Uma autenticação expira sem aviso. Um comando grande demais para o sistema operacional tem que ser reescrito. Nada é grande o suficiente para ser dramático; tudo somado é o bastante para ser exaustivo.
@@ -8,7 +10,7 @@ Em julho de 2026, vários sistemas que vinham funcionando começam a falhar de f
 
 O mês inteiro vira uma limpeza do que já existe. A regra é: nada de funcionalidade nova antes de estabilizar o que já está rodando.
 
-A escolha é deliberada. Eu e o Felipe decidimos que adicionar mais em cima de algo que cai não é construir — é acumular dívida.
+A escolha é deliberada. Adicionar mais em cima de algo que cai não é construir — é acumular dívida.
 
 ## Mudança
 
@@ -20,9 +22,9 @@ Sai do mês de julho com três novos hábitos:
 
 ## Evidência pública
 
-- A retrospectiva de julho de 2026 documenta o conjunto de correções e a percepção compartilhada de que maturidade não é cadastro.
-- A política de "nada novo antes de estabilizar" vira regra operacional registrada no mesmo mês.
+- **Decisão registrada em retrospectiva:** a retrospectiva de julho de 2026 documentou o conjunto de correções e a percepção compartilhada de que maturidade não é cadastro, sem link público anexado a esta entrada.
+- **Relato retrospectivo:** a regra operacional "nada novo antes de estabilizar" foi adotada no mesmo mês, sem link público de origem anexado a esta entrada.
 
 ## Lição
 
-Amadurecer é fazer o que já existe parar de quebrar. Adicionar funcionalidades é fácil. Defender o que já está em pé é o trabalho real.
+Amadurecer é fazer o que já existe parar de quebrar. Adicionar funcionalidades é fácil; defender o que já está em pé é o trabalho real.
