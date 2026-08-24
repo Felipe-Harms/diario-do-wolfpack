@@ -23,8 +23,8 @@ A publicação é feita sem automação. Cada entrada futura passa por branch + 
 Daqui em diante, três efeitos:
 
 - O Wolfpack ganha uma porta narrativa aberta. O conteúdo escrito pode receber feedback público.
-- A régua de "o que é privado" vira explícita em [`docs/privacidade-red-lines.md`](../../docs/privacidade-red-lines.md).
-- As próximas entradas ficam registradas como fase 3 da [`README.md`](../../README.md) — entradas por branch + PR, cinco revisões humanas antes de qualquer automatização.
+- A régua de "o que é privado" vira explícita em [`docs/privacidade-red-lines.md`](../../../docs/privacidade-red-lines.md).
+- As próximas entradas ficam registradas como fase 3 da [`README.md`](../../../README.md) — entradas por branch + PR, cinco revisões humanas antes de qualquer automatização.
 
 ## Evidência pública
 

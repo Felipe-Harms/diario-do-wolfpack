@@ -4,7 +4,7 @@
 
 Este repositório documenta a construção do Wolfpack, um sistema pessoal de agentes de IA em operação desde fevereiro de 2026. O conteúdo é narrativo, sanitizado e limitado ao que é público: o que foi decidido, o que mudou, e o que ficou como aprendizado. Não é documentação operacional, página de marketing, nem relato diário. Cada entrada registra um marco verificável — algo que mudou a forma de pensar, trabalhar ou decidir — e não um dia.
 
-Se você quer saber **o que é o Wolfpack** na sua própria voz, comece pelo [`manifesto.md`](manifesto.md). Se quer **quem participa**, vá para [`a-matilha.md`](a-matilha.md). Se quer **a fotografia macro**, [`linha-do-tempo.md`](linha-do-tempo.md) é a entrada. Para as histórias detalhadas, entre em [`diario/`](diario/).
+Se você quer saber **o que é o Wolfpack** na linguagem do projeto, comece pelo [`manifesto.md`](manifesto.md). Se quer **quem participa**, vá para [`a-matilha.md`](a-matilha.md). Se quer **a fotografia macro**, [`linha-do-tempo.md`](linha-do-tempo.md) é a entrada. Para as histórias detalhadas, entre em [`diario/`](diario/).
 
 ## Como ler este diário
 

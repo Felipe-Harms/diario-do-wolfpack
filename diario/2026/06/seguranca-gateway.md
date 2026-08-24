@@ -16,7 +16,7 @@ Depois do incidente, três regras são instituídas:
 - Toda mudança precisa ter um snapshot antes de aplicar, e um rollback ensaiado.
 - Toda mudança precisa ser aprovada por uma segunda pessoa antes de subir.
 
-A falha é registrada em [`falhas-e-licoes/`](../../falhas-e-licoes/), e Felipe aceita tornar o episódio público.
+A falha é registrada em [`falhas-e-licoes/`](../../../falhas-e-licoes/), e Felipe aceita tornar o episódio público.
 
 ## Mudança
 

@@ -38,4 +38,4 @@ Detalhe em [`diario/2026/08/diario-publico.md`](diario/2026/08/diario-publico.md
 
 ---
 
-Por que cinco e não mais? Porque cinco foi o que coube em marcos narráveis em público sem expor o que não é. O restante fica em [`falhas-e-licoes/`](../falhas-e-licoes/), em [`decisoes/`](../decisoes/), e em registros privados. As próximas entradas vêm por branch + PR, com revisão humana obrigatória antes de irem ao ar.
+Por que cinco e não mais? Porque cinco foi o que coube em marcos narráveis em público sem expor o que não é. O restante fica em [`falhas-e-licoes/`](falhas-e-licoes/), em [`decisoes/`](decisoes/), e em registros privados. As próximas entradas vêm por branch + PR, com revisão humana obrigatória antes de irem ao ar.

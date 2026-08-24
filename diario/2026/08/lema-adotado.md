@@ -24,7 +24,7 @@ A partir desta data, três mudanças concretas:
 
 ## Evidência pública
 
-- A frase em latim vira o subtítulo operacional. Aparece em [`manifesto.md`](../../manifesto.md).
+- A frase em latim vira o subtítulo operacional. Aparece em [`manifesto.md`](../../../manifesto.md).
 - **Decisão registrada em retrospectiva:** a aceitação do lema como decisão durável do projeto é declarada nesta publicação, sem link público anexado a esta entrada.
 
 ## Lição
