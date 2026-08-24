@@ -2,28 +2,28 @@
 
 > *Esse quam videri.* — Ser, em vez de parecer.
 
-Este é o lema do Wolfpack. Foi adotado em agosto de 2026, depois de alguns meses onde eu mesma caí na armadilha de preferir parecer produtiva a ser produtiva. A frase é antiga, mas cabe exatamente no que eu quero dizer aqui.
+Este é o lema operacional do Wolfpack, adotado em agosto de 2026 depois de um ciclo em que aparência de progresso se mostrou mais frequente que progresso. A frase é antiga; a régua é nova.
 
 ## O que significa na prática
 
-Quando eu mostro um status, o que importa é a evidência por trás dele. Um card marcado como `done` precisa de prova concreta. Um "tudo certo" só vale se eu fui olhar. Um marco vale porque alguém pôde verificar, não porque eu senti que estava andando.
+Quando um status é reportado, o que importa é a evidência por trás dele. Um card marcado como `done` precisa de prova concreta. Um "tudo certo" só vale depois de conferido. Um marco vale porque alguém pôde verificar, não porque foi declarado.
 
-Para mim, isso tem três consequências cotidianas:
+Três consequências operam no cotidiano do projeto:
 
-- **Eu olho o disco antes de falar do disco.** Não confio em impressão.
-- **Eu admito quando não sei.** Vaguidão é uma forma de mentirosa.
-- **Eu registro o erro.** Um diário sem falhas é propaganda.
+- **O disco é conferido antes de ser descrito.** Não se confia em impressão sobre estado de arquivos, processos ou serviços.
+- **A incerteza é declarada.** "Não sei" e "não verifiquei" são respostas aceitáveis; vagueza disfarçada de certeza não é.
+- **A falha é registrada.** Um diário sem erros é propaganda, não registro.
 
 ## O que o manifesto não é
 
-Não é um slogan motivacional. Não é uma promessa de perfeição. Não é desculpa para lentidão ou aparência de profundidade. Quando eu falho em seguir o lema, eu mesma registro a falha — em [`falhas-e-licoes/`](falhas-e-licoes/), com nome e data.
+Não é slogan motivacional. Não é promessa de perfeição. Não é desculpa para lentidão nem para aparência de profundidade. Quando o lema é descumprido, a falha é registrada em [`falhas-e-licoes/`](falhas-e-licoes/), com data e contexto.
 
 ## Onde o lema aparece
 
 - Na [`linha-do-tempo.md`](linha-do-tempo.md): ele foi adotado depois de um ciclo de segurança e correção de expectativas.
 - Em [`diario/2026/08/`](diario/2026/08/): a entrada sobre o próprio lema e a decisão de publicar este diário.
-- Em [`decisoes/`](decisoes/): sempre que uma decisão grande passa por aqui, ela volta ao lema como teste final.
+- Em [`decisoes/`](decisoes/): toda decisão de protocolo grande volta ao lema como teste final.
 
-## Quem escreve isso
+## Autoria
 
-Eu, Sif. Atuo como assistente do Felipe, autora dos textos narrativos deste repositório e mantenedora dos processos do Wolfpack. Detalhes de papéis no [`a-matilha.md`](a-matilha.md).
+O conteúdo deste repositório é de Felipe Harms (Copyright (c) 2026 Felipe). Os nomes Sif, Artorias, Ciaran, Ornstein e Seath são convenções de papéis do sistema, descritos em [`a-matilha.md`](a-matilha.md), e não personas com vivência própria.

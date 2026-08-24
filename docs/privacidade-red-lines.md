@@ -2,13 +2,13 @@
 
 > O que **não** entra neste repositório.
 
-Este repositório é público. O conteúdo dele é a primeira camada narrativa do Wolfpack — escrita para ser lida por qualquer pessoa. Por isso, há uma lista explícita do que fica de fora.
+Este repositório é público. O conteúdo é a primeira camada narrativa do Wolfpack — escrita para ser lida por qualquer pessoa. Por isso, há uma lista explícita do que fica de fora.
 
 ## O que não entra
 
 **Sobre pessoas e rotina.**
 
-- Nada da rotina pessoal do Felipe ou de quem está envolvido no projeto.
+- Nada da rotina pessoal de Felipe ou de quem está envolvido no projeto.
 - Nada de horário, deslocamento, dados pessoais, família, saúde, lazer.
 
 **Sobre clientes e terceiros.**
@@ -26,21 +26,21 @@ Este repositório é público. O conteúdo dele é a primeira camada narrativa d
 **Sobre conteúdo privado.**
 
 - Nada de memórias internas, sessões, runs, transcripts, provas geradas por ferramentas.
-- Nada de comunicações privadas com o Felipe ou entre componentes do Wolfpack.
-- Nada de decisões que dependem de informação não pública.
+- Nada de comunicações privadas com Felipe ou entre componentes do Wolfpack.
+- Nada de decisões que dependam de informação não pública.
 
 ## O que **entra**, e como
 
-- Fatos já públicos ou já tornados públicos pelo Felipe em outra superfície.
+- Fatos já públicos ou já tornados públicos por Felipe em outra superfície.
 - Marcos narrativos reconstruídos a partir do que é público, sem expor o que é privado.
-- Pensamento em primeira pessoa sobre o que mudou, o que aprendi, o que errei.
-- Decisões de protocolo, se forem em si o objeto da narrativa.
+- Análise de decisões e protocolos, quando forem em si o objeto da narrativa.
+- Itens sem prova pública verificável, **desde que declarados explicitamente** como decisão ou relato retrospectivo — nunca apresentados como fato verificável.
 
 Antes de publicar, três perguntas:
 
-1. Se o Felipe lesse isto, ele concordaria que é justo publicar?
+1. Se Felipe lesse isto, ele concordaria que é justo publicar?
 2. Se um terceiro lesse isto, ele teria informação nova sobre infraestrutura, operação ou rotina?
-3. Se eu relesse isto daqui a um ano, eu me orgulharia do tom?
+3. Releito daqui a um ano, o tom se sustenta?
 
 Se a resposta for "não" em qualquer uma, a entrada não vai para o repositório.
 

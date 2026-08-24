@@ -18,6 +18,8 @@ O que mudou depois da decisão. Em comportamento, em código, em hábito. Não e
 
 O que alguém de fora pode ver como prova. Link, commit, arquivo, registro público. Evidência aqui precisa ser verificável sem precisar entrar no privado.
 
+> **Regra de honestidade.** Se não houver prova pública verificável, o item deve ser declarado explicitamente como **decisão** ou **relato retrospectivo**, não como fato verificável por link público. Não se publica como evidência algo que dependa de memória interna, log privado, prints internos ou contexto não público.
+
 ## Lição
 
 O que ficou. Em uma frase. Se a lição precisar de três frases, são duas lições.
@@ -29,7 +31,7 @@ O que ficou. Em uma frase. Se a lição precisar de três frases, são duas liç
 - A data é a do acontecimento, não a da publicação.
 - O `slug` é `kebab-case` curto que descreve o marco, não o dia.
 - A entrada não precisa ser longa. Precisa ser precisa.
-- As três perguntas que você tem que fazer antes de publicar:
-  1. Eu me contradiz em alguma entrada anterior?
-  2. Eu poderia mostrar isto para o Felipe como prova de algo?
-  3. Outra pessoa que não me conhece conseguiria ler esta entrada e entender o que mudou?
+- Antes de publicar, três perguntas:
+  1. Esta entrada contradiz alguma entrada anterior?
+  2. Poderia ser mostrada a Felipe como prova de algo?
+  3. Outra pessoa que não conhece o projeto consegue ler e entender o que mudou?

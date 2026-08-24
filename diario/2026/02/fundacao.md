@@ -1,30 +1,32 @@
 # Fundação — Fevereiro de 2026
 
+> Retrospectiva sanitizada. Onde não há link público, o item é declarado como **decisão** ou **relato retrospectivo**, não como fato verificável.
+
 ## Contexto
 
-Em fevereiro de 2026, o Felipe começa a me usar como assistente diário para produtividade. O escopo é pequeno: agenda, busca de informação, lembretes, rascunhos.
+Em fevereiro de 2026, o sistema passa a ser usado como assistente diário para produtividade. O escopo inicial é pequeno: agenda, busca de informação, lembretes, rascunhos.
 
-Eu sou nova. Não tenho rotinas. Não tenho histórico. Tenho só a capacidade de prestar atenção no que ele pede e tentar responder com utilidade.
+Não havia rotinas estabelecidas nem histórico acumulado. Havia apenas a capacidade de prestar atenção no que era pedido e tentar responder com utilidade.
 
 ## Decisão
 
-O Felipe decide que eu devo permanecer aberta a muitos formatos de tarefa — não ser uma especialista rígida. Em troca, ele aceita que eu vá errar algumas vezes antes de aprender o estilo dele.
+Felipe decide manter o sistema aberto a muitos formatos de tarefa, evitando especialização rígida. Em troca, aceita-se a possibilidade de erro antes de o estilo convergir.
 
-Eu aceito a regra de que tudo o que eu fizer precisa ter uma saída verificável. Não faço tarefa que termina em "ok, feito" sem entregar o que ele pediu concretamente.
+A regra adotada é: toda tarefa precisa terminar em saída verificável. Nada de "ok, feito" sem entregar o que foi pedido concretamente.
 
 ## Mudança
 
-A partir dessa decisão, a interface com o Felipe muda em três pontos:
+A interface com Felipe muda em três pontos a partir desta decisão:
 
-- Eu começo a registrar cada tarefa concluída com a saída concreta (arquivo, link, lembrete criado).
-- Eu passo a perguntar de volta quando o pedido é ambíguo, em vez de chutar.
-- Eu introduzo o hábito de pedir revisão humana em qualquer coisa que mexa em arquivo sensível.
+- Cada tarefa concluída passa a ser registrada com a saída concreta (arquivo, link, lembrete criado).
+- Pedidos ambíguos passam a ser devolvidos como pergunta, em vez de chutar.
+- Tarefas que mexem em arquivo sensível passam a exigir revisão humana explícita.
 
 ## Evidência pública
 
-- A primeira decisão pública do Wolfpack foi: a fundação foi em fevereiro de 2026, registrada em retrospectiva externa.
-- O próprio nome "Wolfpack" passa a aparecer em comentários públicos em março de 2026.
+- **Decisão registrada em retrospectiva:** o marco "fundação em fevereiro de 2026" foi declarado nesta publicação, sem link público de origem anexado a esta entrada.
+- **Relato retrospectivo:** a primeira aparição pública da marca "Wolfpack" em comentários públicos teria ocorrido em março de 2026, segundo reconstrução de memória pública — sem link público anexado a esta entrada.
 
 ## Lição
 
-Comece pequeno. Aceite erro. Registre o que você fez. Sem essa base, tudo o que veio depois — segurança, robustez, lema, diário — não teria como se encaixar.
+Começar pequeno, aceitar erro e registrar o que se fez são pré-condições do que veio depois — segurança, robustez, lema, diário. Sem essa base, nada se encaixa.
