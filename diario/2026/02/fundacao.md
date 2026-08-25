@@ -1,3 +1,7 @@
+**🌐 Idioma:** **Português** | [English →](./fundacao.en.md)
+
+---
+
 # Fundação — Fevereiro de 2026
 
 > Retrospectiva sanitizada. Onde não há link público, o item é declarado como **decisão** ou **relato retrospectivo**, não como fato verificável.
