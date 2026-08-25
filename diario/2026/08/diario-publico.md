@@ -1,3 +1,7 @@
+**🌐 Idioma:** **Português** | [English →](./diario-publico.en.md)
+
+---
+
 # Publicação deste diário — Agosto de 2026
 
 > Retrospectiva sanitizada. Onde não há link público, o item é declarado como **decisão** ou **relato retrospectivo**, não como fato verificável.

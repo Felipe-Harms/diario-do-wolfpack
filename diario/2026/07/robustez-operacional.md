@@ -1,3 +1,7 @@
+**🌐 Idioma:** **Português** | [English →](./robustez-operacional.en.md)
+
+---
+
 # Robustez operacional — Julho de 2026
 
 > Retrospectiva sanitizada. Onde não há link público, o item é declarado como **decisão** ou **relato retrospectivo**, não como fato verificável.

@@ -1,3 +1,7 @@
+**🌐 Idioma:** **Português** | [English →](./README.en.md)
+
+---
+
 # Diário do Wolfpack
 
 > Registro público e sanitizado da construção do Wolfpack — sistema pessoal de agentes de IA mantido por Felipe Harms.
