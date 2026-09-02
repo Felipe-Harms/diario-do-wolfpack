@@ -36,6 +36,11 @@ O repositório `diario-do-wolfpack` é publicado como MIT. É a primeira peça p
 
 Detalhe em [`diario/2026/08/diario-publico.md`](diario/2026/08/diario-publico.md).
 
+## 6. Setembro de 2026 — Rotina de manutenção
+
+Passagem de manutenção interna do repositório. Sem marco novo publicável; classificada explicitamente como **relato retrospectivo de rotina**, não como item de marco. Detalhes em [`diario/2026/09/rotina-2026-09-02.md`](diario/2026/09/rotina-2026-09-02.md).
+
+
 ---
 
 Por que cinco e não mais? Porque cinco foi o que coube em marcos narráveis em público sem expor o que não é. O restante fica em [`falhas-e-licoes/`](falhas-e-licoes/), em [`decisoes/`](decisoes/), e em registros privados. As próximas entradas vêm por branch + PR, com revisão humana obrigatória antes de irem ao ar.
