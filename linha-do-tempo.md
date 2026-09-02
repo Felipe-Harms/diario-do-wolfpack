@@ -36,9 +36,11 @@ O repositório `diario-do-wolfpack` é publicado como MIT. É a primeira peça p
 
 Detalhe em [`diario/2026/08/diario-publico.md`](diario/2026/08/diario-publico.md).
 
-## 6. Setembro de 2026 — Rotina de manutenção
+## 6. Setembro de 2026 — Dois marcos do OpenClaw e o que ensinaram
 
-Passagem de manutenção interna do repositório. Sem marco novo publicável; classificada explicitamente como **relato retrospectivo de rotina**, não como item de marco. Detalhes em [`diario/2026/09/rotina-2026-09-02.md`](diario/2026/09/rotina-2026-09-02.md).
+Mudança de foco da entrada de 2026-09-02: passa de "rotina sem marco novo" para registro verificável de duas versões do OpenClaw (2026.8.1 / "OpenClaw 2.0" e 2026.8.2) e de uma lição operacional derivada da relação entre essas versões e o histórico recente do projeto. O release 2026.8.1 reformulou a plataforma; o release 2026.8.2 trouxe melhoras de segurança de upgrade e integridade de patch — fechando a categoria de risco que o projeto encontrou em agosto. Item classificado como **release notável + lição operacional**, não como relato de rotina.
+
+Detalhes em [`diario/2026/09/rotina-2026-09-02.md`](diario/2026/09/rotina-2026-09-02.md).
 
 
 ---
